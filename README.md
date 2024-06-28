@@ -5,4 +5,7 @@
 - made with C# and has a gui
 
 ## How to deploy
+- create an account on open weather map (https://openweathermap.org/)
+- once account has been made generate an api key (https://home.openweathermap.org/api_keys)
+- copy that api key into the variable string api key on line 25 in the form1.cs file so it can retrieve the weather data
 - run the .sln file in visual studios
